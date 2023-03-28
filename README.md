@@ -17,3 +17,8 @@ Table 1 shows the process model questionnaire, where A-E represents a score of 5
 <p align="center">Table 1</p>
 
 ![image](https://github.com/HangyuCheng/BPMN-Extension-/blob/main/tools/resource/model%20questionnaire.png)
+Table 2 shows the modeling tool questionnaire, where A-E represents a score of 5-1. Score1 represents BPMN tool and Score2 represents BPMN++ tool. 
+
+<p align="center">Table 2</p>
+
+![image](https://github.com/HangyuCheng/BPMN-Extension-/blob/main/tools/resource/tool%20questionnaire.png)
