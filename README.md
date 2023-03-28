@@ -8,3 +8,4 @@ Fig. 1. Local version for BPMN extension
 ## Web version implements BPMN extensions
 BPMN extensions implement the Web version, as shown in Figure 2.
 ![image](https://github.com/HangyuCheng/BPMN-Extension-/blob/main/tools/Web%20version.png)
+Fig. 2. Web version for BPMN extension
