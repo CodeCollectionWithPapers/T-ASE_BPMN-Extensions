@@ -14,5 +14,5 @@ To evaluate BPMN++ models and tools, we conducted a user experiment.Over a one-m
 
 Table 1 shows the process model questionnaire, where A-E represents a score of 5-1. Score1 represents BPMN model and Score2 represents BPMN++ model.  
 
-Table 1
+<center>Table 1<center/>
 ![image](https://github.com/HangyuCheng/BPMN-Extension-/blob/main/tools/resource/model%20questionnaire.png)
