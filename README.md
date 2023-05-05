@@ -4,7 +4,6 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Bootstrap-5.2.3-brightgreen" alt="" />
 <img src="https://img.shields.io/badge/Bpmn.js-11.5.0-important" alt="" />
 <img src="https://img.shields.io/badge/Camunda-7.16.0-critical" alt="" />
 </p>
