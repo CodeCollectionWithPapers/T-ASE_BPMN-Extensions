@@ -15,11 +15,11 @@
 This repository describes BPMN extensions for business process modeling. BPMN element extensions and attribute extensions are supported by the implemented tools. Modelers can choose the suitable tool to model business processes according to BPM environment. In particular, we implemented a Web version and a local version.
 
 ## Local version implementation of BPMN extensions
-We extend the modeling elements and attributes based on BPMN2.0. For typical Industrial Internet business requirements, we extend ten elements and three attributes. As shown in Figure 1, the red box represents element extensions and the purple box represents attribute extensions.
+We extend the modeling elements and attributes based on BPMN2.0. For typical Industrial Internet business requirements, we extend ten elements and three attributes. As shown in Fig. 1, the red box represents element extensions and the purple box represents attribute extensions.
 ![image](https://github.com/HangyuCheng/BPMN-Extension-/blob/main/tools/Local%20version.png)
 Fig. 1. Local version for BPMN extension
 ## Web version implementation of BPMN extensions
-BPMN extensions implement the Web version, as shown in Figure 2. The tool can be available online  http://124.223.167.70:10086/bpmn-plus-plus :rocket: :rocket:
+BPMN extensions implement the Web version, as shown in Fig. 2 The tool can be available online  http://124.223.167.70:10086/bpmn-plus-plus :rocket: :rocket:
 ![image](https://github.com/HangyuCheng/BPMN-Extension-/blob/main/tools/Web%20version.png)
 Fig. 2. Web version for BPMN extension
 ## Evaluation for BPMN++ models and tools
